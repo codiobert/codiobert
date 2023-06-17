@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Anglada</h1>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/codiobert/codiobert/main/images/github-profile-david-anglada.png" alt="David Anglada" width="200" height="200" />
+</p>
 <h3 align="center">A passionate developer from Barcelona</h3>
 
 ---
