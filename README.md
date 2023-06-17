@@ -13,7 +13,7 @@ I work every day to improve and be a better professional.
 <p align="left">
 When I'm not working I'm always reading technology blogs and practicing my Ethical Hacking skills
 (<a href="https://app.hackthebox.com/profile/523847" target="_blank">Hack The Box Profile</a>),
-but I also take care of my health by going to the gym and often hiking in the mountains.
+but I also take care of my health by going to the gym and often hiking in the mountains 😀.
 </p>
 
 <h2 align="left">Developer Skills</h2>
