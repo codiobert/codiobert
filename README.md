@@ -21,6 +21,8 @@ When I'm not developing I'm always reading technology blogs and practicing my Et
 Of course I also take care of my health by going to the gym 💪 and often hiking in the mountains 🏔️.
 </p>
 
+---
+
 <h2 align="left">Developer Skills</h2>
 
 <h3 align="left">Backend Development</h3>
@@ -114,7 +116,7 @@ Of course I also take care of my health by going to the gym 💪 and often hikin
     </a>
 </p>
 
-<h3 align="left">Devops</h3>
+<h3 align="left">DevOps</h3>
 <p>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
@@ -145,6 +147,8 @@ Of course I also take care of my health by going to the gym 💪 and often hikin
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" />
     </a>
 </p>
+
+---
 
 <h2 align="left">Ethical Hacker Skills</h2>
 <h3>Tools</h3>
@@ -228,6 +232,8 @@ Of course I also take care of my health by going to the gym 💪 and often hikin
         </a>
     </li>
 </ul>
+
+---
 
 <h2 align="left">Connect with me</h2>
 <ul>
