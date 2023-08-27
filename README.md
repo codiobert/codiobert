@@ -7,8 +7,8 @@
 ---
 
 <p align="left">
-I'm currently working at <a href="https://www.perception.es/" target="_blank">Perception Technologies S.L.</a>
-as Web DevOps Tech Lead.
+I'm currently working at <a href="https://kumux.io/" target="_blank">Kumux</a>
+as VP of Engineering.
 </p>
 <p align="left">
 I work every day to improve and be a better professional.
@@ -78,9 +78,6 @@ Of course I also take care of my health by going to the gym 💪 and often hikin
     </a>
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
     </a>
 </p>
 
