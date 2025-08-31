@@ -7,8 +7,8 @@
 ---
 
 <p align="left">
-I'm currently working at <a href="https://kumux.io/" target="_blank">Kumux</a>
-as VP of Engineering.
+I'm currently working at <a href="https://www.perception.es/" target="_blank">Perception Technologies</a>
+as Web DevOps Tech Lead.
 </p>
 <p align="left">
 I work every day to improve and be a better professional.
